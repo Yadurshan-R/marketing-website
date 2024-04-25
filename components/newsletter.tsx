@@ -3,10 +3,8 @@ export default function Newsletter() {
     <section>
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
 
-        {/* CTA box */}
         <div className="relative bg-white py-10 px-8 md:py-16 md:px-12 rounded-2xl" data-aos="fade-up">
 
-          {/* Background illustration */}
           <div className="absolute right-0 top-0 -ml-40 pointer-events-none round" aria-hidden="true">
             <svg width="238" height="110" fill="none" xmlns="http://www.w3.org/2000/svg">
               <defs>
@@ -21,13 +19,11 @@ export default function Newsletter() {
 
           <div className="relative flex flex-col lg:flex-row justify-between items-center">
 
-            {/* CTA content */}
             <div className="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left lg:w-1/2">
               <h3 className="h3 text-black mb-2">Subscribe To Our Newsletter</h3>
               <p className="text-gray-800 text-lg">Learn About The Latest Campus Navigator's Updates</p>
             </div>
 
-            {/* CTA form */}
             <form className="w-full lg:w-1/2">
               <div className="flex flex-col sm:flex-row justify-center max-w-xs mx-auto sm:max-w-md lg:max-w-none">
                 <input type="email" className="w-full appearance-none bg-slate-300 rounded-xl border-none px-4 py-3 mb-2 sm:mb-0 sm:mr-2 placeholder-black" placeholder="Enter Your Email Address" aria-label="Enter Your Email Address" />

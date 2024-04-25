@@ -25,7 +25,7 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-base capitalize text-gray-300 grow text-justify">Campus Navigator has been essential for my academic and career choices as it provides me with the best options available based on my academic and professional interests and qualifications. I would recommend it to students</blockquote>
               <div className="text-gray-600 font-medium mt-6 pt-5 border-t border-gray-600">
-                <cite className="text-gray-100 not-italic">Random</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Student</a>
+                <cite className="text-gray-100 not-italic">Gracie Parker</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Student</a>
               </div>
             </div>
 
@@ -40,11 +40,10 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-base capitalize text-gray-300 grow text-justify">I have never really bothered about my academics until I recently discovered about Campus Navigator and this has helped me with my educational and career decisions. It's necessary for any students who are entering university</blockquote>
               <div className="text-gray-600 font-medium mt-6 pt-5 border-t border-gray-600">
-                <cite className="text-gray-100 not-italic">Random</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Student</a>
+                <cite className="text-gray-100 not-italic">Micheal Smith</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Student</a>
               </div>
             </div>
 
-            {/* 3rd testimonial */}
             <div className="flex flex-col h-full p-6 bg-gray-800 rounded-2xl" data-aos="fade-up" data-aos-delay="400">
               <div>
                 <div className="relative inline-flex flex-col mb-4">
@@ -56,12 +55,10 @@ export default function Testimonials() {
               </div>
               <blockquote className="text-base capitalize text-gray-300 grow text-justify">Campus Navigator has steadily been a really popular choice among students. As a lecturer and a member of the editorial team, I'm excited to contribute positively to the academic field and I would recommend the web application to my students</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-100 not-italic">Random</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Student</a>
+                <cite className="text-gray-100 not-italic">Evan William</cite> - <a className="text-slate-300 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Lecturer</a>
               </div>
             </div>
-
           </div>
-
         </div>
       </div>
     </section>

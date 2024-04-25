@@ -16,7 +16,7 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link href="feature" className="btn-sm rounded-full text-black font-semibold bg-white hover:bg-slate-200 ml-3">
+                <Link href="https://sdgp-se-4.vercel.app" className="btn-sm rounded-full text-black font-semibold bg-white hover:bg-slate-200 ml-3">
                   Get Started
                 </Link>
               </li>
